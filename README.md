@@ -6,4 +6,4 @@
     * test-unit -> gem install test-unit
 * Run:
     * Main -> ruby Main.rb
-    # test -> ruby test.rd
+    * test -> ruby test.rd
